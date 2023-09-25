@@ -112,11 +112,15 @@ link: https://linkedin.com/in/Durgesh jatale
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
-link: https://twitter.com/YOUR_TWITTER_jatale_durgesh
+<<<<<<< HEAD
+link: https://twitter.com/Jatale_durgesh
+=======
+link: https://twitter.com/jatale_durgesh
+>>>>>>> 48a1df9a3a3814646ec2fbc38ea82c8cac28a325
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: https://github.com/YOUR_GITHUB_USERNAME
+link: https://github.com/Durgesh6263
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
